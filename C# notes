@@ -1,2 +1,4 @@
+When using a float value at the end of the value put f
+
 Time class functions:
 deltaTime, equivalent to a second enabling precise movement with transformations.
