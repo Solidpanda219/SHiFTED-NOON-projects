@@ -1,4 +1,6 @@
 When using a float value at the end of the value put f
+Private denotes a variable to a class
+public makes the variable viewable in the inspector
 
 Time class functions:
 deltaTime, equivalent to a second enabling precise movement with transformations.
