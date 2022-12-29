@@ -1,1 +1,2 @@
-
+Time class functions:
+deltaTime, equivalent to a second enabling precise movement with transformations.
